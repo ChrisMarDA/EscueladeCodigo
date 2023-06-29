@@ -25,5 +25,5 @@ Si estás interesado en alguno de los tres cursos, visita [Sitio de EdC](https:/
 
 ## Referencias.
 
-> https://escuelasdecodigo.cdmx.gob.mx/
-> https://gobierno.cdmx.gob.mx/noticias/aprende-programacion-en-las-escuelas-de-codigo/
++> https://escuelasdecodigo.cdmx.gob.mx/
++> https://gobierno.cdmx.gob.mx/noticias/aprende-programacion-en-las-escuelas-de-codigo/
