@@ -18,13 +18,13 @@ Objetivo General: El estudiantado desarrollará conocimientos básicos para reso
 2. Operadores
   <br>2.a Operadores ariméticos<br/>
    2.b Operadores relacionales
-   <br>2.c Operadores lógicos
+  <br>2.c Operadores lógicos
 3. Conceptos básicos de programación
 4. Tipos de datos
-  <br>4.a Datos primitivos<br/>
-  <br>4.b Numéricos<br/>
-  <br>4.c Simbolos y cadenas<br/>
-  <br>4.d Lógicos y booleanos<br/>
+  <br>4.a Datos primitivos
+  <br>4.b Numéricos
+  <br>4.c Simbolos y cadenas
+  <br>4.d Lógicos y booleanos
 5. Variables
 6. Diagramas
 7. Estructuras
