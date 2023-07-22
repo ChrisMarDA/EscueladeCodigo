@@ -14,7 +14,7 @@ Objetivo General: El estudiantado desarrollará conocimientos básicos para reso
 ## Temario.
 
 1. Algoritmo
-1.a Diseño de algoritmo
+  <br>1.a Diseño de algoritmo<br/>
 2. Operadores
 2.a Operadores ariméticos
 2.b Operadores relacionales
