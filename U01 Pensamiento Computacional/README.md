@@ -16,15 +16,15 @@ Objetivo General: El estudiantado desarrollará conocimientos básicos para reso
 1. Algoritmo
   <br>1.a Diseño de algoritmo<br/>
 2. Operadores
-2.a Operadores ariméticos
-2.b Operadores relacionales
-2.c Operadores lógicos
+  <br>2.a Operadores ariméticos<br/>
+  <br>2.b Operadores relacionales<br/>
+  <br>2.c Operadores lógicos<br/>
 3. Conceptos básicos de programación
 4. Tipos de datos
-4.a Datos primitivos
-4.b Numéricos
-4.c Simbolos y cadenas
-4.d Lógicos y booleanos
+  <br>4.a Datos primitivos<br/>
+  <br>4.b Numéricos<br/>
+  <br>4.c Simbolos y cadenas<br/>
+  <br>4.d Lógicos y booleanos<br/>
 5. Variables
 6. Diagramas
 7. Estructuras
