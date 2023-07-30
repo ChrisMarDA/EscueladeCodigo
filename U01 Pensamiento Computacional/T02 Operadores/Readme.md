@@ -25,13 +25,13 @@ Son los operadores que se utilizan en operaciones matemáticas.
 
 #### Ejemplo
 
-'''
+```
 1. x = (3^2 + 10/2) + (3 * 9mod 4 - 1)
    x = (9 + 5) + (27mod4 - 1)
    x = 14 + (3-1)
    x = 14 + 2
    x = 16
-'''
+```
 
 ### Operadores Relacionales
 
@@ -48,10 +48,10 @@ Estos operadores cumplen la función de comparar dos sentencias y el resultado e
 
 #### Ejemplo
 
-'''
+```
 1. C > D, E < F, G < E, D > F
    -> REsultado: C > D > F > E > G.
-'''
+```
 
 ### Operadores Lógicos
 
@@ -65,9 +65,9 @@ Estos operadores cumplen la función de comparar dos sentencias y el resultado e
 
 #### Ejemplo
 
-'''
+```
 1. ¬(128 < 145 && 12 > 9)
    ¬(   V      &&   V   )
    ¬( V )
    F
-'''
+```
