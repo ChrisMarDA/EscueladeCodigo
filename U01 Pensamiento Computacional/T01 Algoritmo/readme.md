@@ -12,11 +12,22 @@ Los algoritmos se pueden clasificar en cualitativos y cuantitativos, la diferenc
 ## Algoritmo de actividad diaria
 ### "Regar las plantas"
 
-```1. Inicio
+```
+1. Inicio
 2. Obtener una regadera
 3. Llenar de agua
 4. Acercarme a la planta
 5. Verter el contenido de la regadera en la planta
 6. Terminar de regar
-7. Fin. ```
+7. Fin.
+```
+## Algoritmo de operación matemática
+### "Obtener el ángulo de un triángulo a partir de los otros dos"
 
+```
+1. Inicio
+2. Sumar los ángulos que se conocen
+3. A 180 restar el resultado del paso 2.
+4. Mostrar el resultado
+5. Fin.
+```
